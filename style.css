@@ -1,0 +1,9 @@
+h1 { color: black}
+h1 { text-align: center;}
+p { color: black}
+p { text-align: center;}
+body {
+ background-image: url("music.png") ;
+ background-repeat:no-repeat
+}
+.column.side{width: 25%;}
